@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GradleTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/GradleTool_jar/GradleTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

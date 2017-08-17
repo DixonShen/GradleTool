@@ -1,0 +1,8 @@
+运行：
+java -jar GradlwUtil.jar
+配置文件 config.properties
+    排除列表，以;隔开   exclude-list=iOS;OldVersions;
+    超时设置            timeout=200
+    命令                command=gradle clean build
+    线程数              threads=5
+    需要扫描的目录      target-dir=/home/ccs_lab_linux/CI/workspace/move_server_CMS_WP4_NGIT_ChangChun_NightlyBuild/
